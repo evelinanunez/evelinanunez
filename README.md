@@ -1,4 +1,4 @@
-![me](https://user-images.githubusercontent.com/55670074/178376702-8a7081dc-4149-4990-92a1-0587c318d99f.png)
+
 
 ### Hola Soy Evelina 👋
 
