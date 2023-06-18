@@ -3,28 +3,31 @@
 ### Hola Soy Evelina 👋
 
 - 🙋‍♀️ Estudio la Tecnicatura en Desarrollo web en La universidad Nacional de la Matanza
-- 👩‍💻 Desarrolladora web Trainee
-- ♐ Tengo 33 años.
+- 👩‍💻 Desarrolladora web Jr.
 
 ## Habilidades:
 
 ### Frontend: 
 - Html5
 - Css
-- conocimientos básicos javaScript
+- Conocimientos básicos javaScript
+- Jquery
 - Bootstrap
 
-
 ### Backend:
-- aprendiendo c# ...
-- conocimientos básicos Java
-- Php
+- Aprendiendo .NET, EntityFramework, ApiRest, Patrones de diseño MVC... (Experiencia laboral)
+- Conocimientos básicos Java
+- Conocimientos basico Php
 
 ### Databases:
-- Sql server 
+- Sql server (Expediencia laboral)
 - PhpMyAdmin
 - MyQsl
 
+### Sistemas de control de versiones:
+- Conocimientos básticos GIT (Experiencia laboral)
+- Conocimientos básicos TFS (Experiencia laboral)
+  
 ### Enlaces de interes:
 
 <div>
