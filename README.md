@@ -6,9 +6,10 @@
 - 👩‍💻 Desarrolladora web Jr desde Noviembre 2022.
 
 ## Habilidades:
+- Conocimiento en programación orientada a objetos.
 
 ### Frontend: 
-- Cursando en CoderHouse - Curso de Angular (TypeScript/Angular Material)
+- (Octubre 2023 - Noviembre 2023 ) Cursando en CoderHouse -  Angular (TypeScript/Angular Material)
 - Html5
 - Css
 - Conocimientos básicos javaScript
@@ -21,7 +22,7 @@
 - Conocimientos basico Php (Universidad)
 
 ### Databases:
-- Sql server (Expediencia laboral)
+- Sql server (Experiencia laboral)
 - PhpMyAdmin (Universidad)
 - MySQL (Universidad)
 
