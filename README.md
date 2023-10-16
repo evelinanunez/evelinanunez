@@ -3,11 +3,12 @@
 ### Hola Soy Evelina 👋
 
 - 🙋‍♀️ Estudio la Tecnicatura en Desarrollo web en La universidad Nacional de la Matanza
-- 👩‍💻 Desarrolladora web Jr.
+- 👩‍💻 Desarrolladora web Jr desde Noviembre 2022.
 
 ## Habilidades:
 
 ### Frontend: 
+- Cursando en CoderHouse - Curso de Angular (TypeScript/Angular Material)
 - Html5
 - Css
 - Conocimientos básicos javaScript
@@ -15,14 +16,14 @@
 - Bootstrap
 
 ### Backend:
-- Aprendiendo .NET, EntityFramework, ApiRest, Patrones de diseño MVC... (Experiencia laboral)
-- Conocimientos básicos Java
-- Conocimientos basico Php
+- C#, Framework : .NET, ApiRest (Experiencia laboral)
+- Conocimientos básicos Java, framework : Sprint (Universidad)
+- Conocimientos basico Php (Universidad)
 
 ### Databases:
 - Sql server (Expediencia laboral)
-- PhpMyAdmin
-- MyQsl
+- PhpMyAdmin (Universidad)
+- MySQL (Universidad)
 
 ### Sistemas de control de versiones:
 - Conocimientos básticos GIT (Experiencia laboral)
