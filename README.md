@@ -2,9 +2,10 @@
 
 ### Hola Soy Evelina 👋
 
-- 🙋‍♀️ Estudio la Tecnicatura en Desarrollo web en La universidad Nacional de la Matanza
-- 👩‍💻 Desarrolladora web Full Stack.
-- Sobre mi: 
+- 🙋‍♀️ Estudiante avanzada de la  Tecnicatura en Desarrollo Web en La universidad Nacional de la Matanza, fecha estimada de graduación Diciembre 2024.
+- 👩‍💻 Laboralmente me desempeño como Desarrolladora Web Full Stack.
+
+### Sobre mi:
 Soy una profesional apasionada por el mundo de la tecnología de la Universidad Nacional de la Matanza, mi sólida formación académica es complementada por numerosos cursos en plataformas especializadas como por ejemplo CoderHouse. Mi curiosidad innata y autoexigencia me impulsan a un aprendizaje constante, combinando conocimientos teóricos y prácticos. Valoro el trabajo en equipo y me encanta colaborar, compartiendo mis conocimientos y experiencias para contribuir al éxito colectivo en el ámbito tecnológico
 
 ## Habilidades:
